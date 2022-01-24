@@ -1,5 +1,5 @@
 from helium import *
-choice = input("Press 1 to reboot /n Press 2 to factory Reset")
+choice = input("Press 1 to reboot \nPress 2 to factory Reset")
 
 username = "admin"
 password = "password"
